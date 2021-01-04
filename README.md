@@ -5,7 +5,7 @@
 <h4 align="center">
   Jangan Lupa Istigfar
 
-<img src="https://github.com/Bangbadruyt/crackfbi/blob/main/IMG_20201228_195926.jpg" />
+<img src="https://github.com/Bangbadruyt/crackfbi/blob/main/IMG_20210104_074214.jpg" />
 
 ### Fitures
 ```
