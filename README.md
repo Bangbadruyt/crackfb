@@ -26,7 +26,7 @@ pkg install git
 pkg install nodejs
 pip2 install requests
 pip2 install mechanize
-git clone https://github.com/Bangbadruyt/crackfbi
+git clone https://github.com/Bangbadruyt/crackfbiv1
 ```
 ### Run this script
 ```
